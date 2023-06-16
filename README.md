@@ -6,4 +6,4 @@ Relógio digital atualizado, o projeto conta com as tecnologias:
 - **HTML5**
 - **CSS3**
 
-Agradecimentos à Larissa Kick, que disponibilizou em seu canal no youtube o tutorial para desenvolvimento desse projeto.
+Agradecimentos à Larissa Kich, que disponibilizou em seu canal no youtube o tutorial para desenvolvimento desse projeto.
