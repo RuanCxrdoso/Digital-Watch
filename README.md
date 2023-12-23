@@ -1,5 +1,5 @@
 
-# Relógio Digital 🔊
+# Relógio Digital ⏳
 
 > ## Descrição 📚
 Esse projeto consiste em um app de um relógio digital sempre ajustado para o horário atual utilizando a classe Date do JavaScript. Agradecimentos à Larissa Kich, que disponibilizou em seu canal no youtube o tutorial para desenvolvimento desse projeto.
